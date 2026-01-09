@@ -38,7 +38,7 @@ export default function RootLayout({
                 rel="noopener noreferrer"
                 className="text-slate-600 hover:text-blue-900"
               >
-                GitHub
+                Source Code
               </a>
             </nav>
 
