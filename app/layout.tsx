@@ -33,7 +33,7 @@ export default function RootLayout({
                 Why Sleep Matters
               </Link>
               <a
-                href="https://github.com/dmace27"
+                href="https://github.com/dmace27/sleep/tree/main"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-slate-600 hover:text-blue-900"
